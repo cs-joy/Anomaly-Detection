@@ -142,4 +142,7 @@ Data are ordered, timestamped, single-valued metrics. All data files contain ano
 
 ### References:
 1. [NAB Dataset](https://www.kaggle.com/boltzmannbrain/nab)
-2. 
+2. [Keras Team](https://github.com/keras-team)
+3. [pavithrasv](https://github.com/pavithrasv)
+4. [Lavin, Alexander and Ahmad, Subutai. "Evaluating Real-time Anomaly Detection Algorithms – the Numenta Anomaly Benchmark", Fourteenth International
+Conference on Machine Learning and Applications, December 2015.](https://arxiv.org/abs/1510.03336 'Evaluating Real-time Anomaly Detection Algorithms – the Numenta Anomaly Benchmark')
