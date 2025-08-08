@@ -2,6 +2,7 @@
 Timeseries anomaly detection using an Autoencoder
 
 ## AutoEncoder
+It learns to encode data into a lower-dimensional representation and then decode it back to its original form. This process helps in tasks like dimensionality reduction, feature extraction, and anomaly detection.
 ![AutoEncoder](https://github.com/cs-joy/Anomaly-Detection/blob/main/images/Autoencoder.jpg "AutoEncoder")
 
 
