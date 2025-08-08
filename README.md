@@ -1,6 +1,9 @@
 # Anomaly-Detection
 Timeseries anomaly detection using an Autoencoder
 
+## AutoEncoder
+![AutoEncoder](https://github.com/cs-joy/Anomaly-Detection/blob/main/images/Autoencoder.jpg "AutoEncoder")
+
 
 ## About Dataset:
 
